@@ -23,9 +23,9 @@ public class Calculatrice {
 		} 
 	
 		
-		public  int  max ( int  a , int  b ) {
+		/*public  int  max ( int  a , int  b ) {
 			return  Math . max (a, b);
-		} 
+		}*/ 
 	
 }
 
